@@ -37,11 +37,13 @@ Ayuda al Scrum Team a enfocarse en crear incrementos de alto valor con la defini
 Remueve los impedimentos del progreso del Scrum Team; y,
 Se asegura de que todos los eventos que tienen lugar sean positivos, productivos y dentro del tiempo requerido.
 
-Product Owner:
+Product Owner: 
+Es el responsable de optimizar el valor del producto.  Define y prioriza temas y objetivos con criteriores de aceptación
 Ayuda a encontrar técnicas para una definición efectiva del Product Goal y la administración del Product Backlog;
 Ayuda al Scrum Team a entender la necesidad de items del Product Backlog claros y concisos;
 Ayuda a establecer la planificación empírica del producto para un ambiente complejo;  y,
 Facilita la colaboración de las partes interesadas como se solicita o se necesita.
+Puede estar conformado por un cliente externo, miembro de la organización o un cliente interno.
 
 Organización:
 Lidera y entrena a la organización en la adopción de Scrum;
