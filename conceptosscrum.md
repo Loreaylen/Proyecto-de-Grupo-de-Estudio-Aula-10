@@ -7,8 +7,11 @@ Repositorio para realizar un proyecto grupal de la materia Programador de la Tec
 Ceremonias que se realizan a lo largo del proyecto:
 
 *Sprint Planning Meeting
+
 *Daily Scrum Meeting
+
 *Sprint Review Meeting
+
 *Sprint Retrospective Meeting
 
 - Sprint Planning Meeting (reunion de planificación del psrint). Se produce al iniciar cada Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
