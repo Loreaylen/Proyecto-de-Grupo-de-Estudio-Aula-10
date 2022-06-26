@@ -71,3 +71,11 @@ Lidera y entrena a la organización en la adopción de Scrum;
 Planifica y aconseja las implementaciones de Scrum dentro de la organización;
 Ayuda a los empleados y las partes interesadas a entender y promulgar un acercamiento empírico para un trabajo complejo; y,
 Remueve barreras entre las partes interesadas y Scrum Teams.
+
+------------------------------
+
+Artefactos
+
+Los artefactos en el Scrum representan el trabajo o el valor. Están diseñados para maximizar la transparencia de la información clave. Así, todos los que los inspeccionan tienen la misma base de adaptación. Por eso cada artefacto contiene un commit para obtener la garantia de que la informacion que este proporciona sea transparente y de un enfoque con el cual poder medir el progreso.
+Por ejemplo: Para el Backlog del producto es el Objetivo del producto.
+Estos commits van a existir para reforzar el valor del Scrum para el equipo y sus partes interesadas.
