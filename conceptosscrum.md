@@ -27,6 +27,16 @@ Sprint Retrospective Meeting
 
 Roles dentro del proyecto 
 
+Scrum Team
+
+La unidad fundamental de Scrum es un pequeño equipo de personas.
+Un Equipo Scrum es una unidad cohesiva de profesionales centrados en un objetivo a la vez, el Objetivo del Producto.
+
+El Equipo Scrum esta compuesto por lo general de 10 o menos personas. Los equipos más pequeños se comunican mejor y son más productivos, deben compartir el mismo Objetivo del Producto, el Backlog del Producto, y el Dueño del Producto.
+
+Todo el Equipo Scrum es responsable de la creación de un valioso y útil incremento en cada Sprint. 
+Scrum define tres responsabilidades específicas dentro del Equipo Scrum: los Desarrolladores, el Product Owner, y el Scrum Master.
+
 Product Owner
 
 El product Owner es el responsable de optimizar el valor del producto resultante del trabajo de el equipo de Scrum. La forma en que lo realiza puede variar dependiendo entre las oganizaciones, equipos scrum e individuos. 
@@ -71,6 +81,20 @@ Lidera y entrena a la organización en la adopción de Scrum;
 Planifica y aconseja las implementaciones de Scrum dentro de la organización;
 Ayuda a los empleados y las partes interesadas a entender y promulgar un acercamiento empírico para un trabajo complejo; y,
 Remueve barreras entre las partes interesadas y Scrum Teams.
+
+Developers
+
+Los Desarrolladores son las personas del Equipo Scrum que se comprometen a crear cualquier aspecto de un Incremento utilizable cada Sprint.
+
+Las habilidades específicas que necesitan los Desarrolladores son a menudo amplias y variarán con el dominio de trabajo. Sin embargo, los Desarrolladores son siempre responsables de:
+
+- Crear un plan para el Sprint, el Sprint Backlog;
+
+- Inculcar la calidad adhiriéndose a una Definición de Hecho;
+
+- Adaptar su plan cada día hacia el Objetivo del Sprint;
+
+- Responsabilizarse mutuamente como profesionales.
 
 ------------------------------
 
