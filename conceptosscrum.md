@@ -103,3 +103,16 @@ Artefactos
 Los artefactos en el Scrum representan el trabajo o el valor. Están diseñados para maximizar la transparencia de la información clave. Así, todos los que los inspeccionan tienen la misma base de adaptación. Por eso cada artefacto contiene un commit para obtener la garantia de que la informacion que este proporciona sea transparente y de un enfoque con el cual poder medir el progreso.
 Por ejemplo: Para el Backlog del producto es el Objetivo del producto.
 Estos commits van a existir para reforzar el valor del Scrum para el equipo y sus partes interesadas.
+
+Product Backlog
+
+El Product Backlog es una lista emergente y ordenada de lo que se necesita para mejorar el producto.
+Es la única fuente de trabajo realizada por el Scrum Team.
+Los elementos de la Lista de Producto se consideran listos para selección en un evento de Sprint Planning.
+El refinamiento de la cartera de productos es el acto de desglosar y definir aún más la cartera de productos.
+elementos en elementos más pequeños y precisos. Esta es una actividad continua para agregar una descripción,
+orden y tamaño.
+
+Los Desarrolladores que estarán haciendo el trabajo son responsables del dimensionamiento. 
+El propietario del producto puede influir ayudándolos a comprender y seleccionar compensaciones.
+
