@@ -167,5 +167,5 @@ Sprint es el nombre que va a recibir cada uno de los ciclo o iteracciones que va
 - Los Developers deben adherirse a la Definición de Terminado.
 - Si hay varios Scrum Teams trabajando juntos en un producto, deben definir y cumplir mutuamente la misma Definición de Terminado.
 
-
+<p align ="left">
 <img src="https://thedigitalprojectmanager.com/es/ceremonias-scrum-simplificadas/"
