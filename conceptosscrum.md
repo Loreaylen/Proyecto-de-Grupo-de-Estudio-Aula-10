@@ -120,7 +120,7 @@ El propietario del producto puede influir ayudándolos a comprender y selecciona
 
 Sprint es el nombre que va a recibir cada uno de los ciclo o iteracciones que vamos a tener dentro de un proyecto Scrum. Para ampliar este concepto podemos agregar que se trata de un periodo de corta duración que debe finalizar con un prototipo operativo o producto parcialmente entregable. El mismo se repite n veces a lo largo del proyecto y permite hacer entregas de producto en parte, donde cada entrega, es un incremento de funcionalidad respecto al anterior. Esto difiere del conocido ciclo de vida en Cascada, muy utilizado en el campo de desarrollo de sofware en que, las fases de ciclo de vida(requisito, analisis, diseño, codificación, testing, etc;) se realizan una unica vez y el inicio de cada fase no comienza hasta que termina la que precede.
 
-! .[descargar] https://beagilemyfriend.com/wp-content/uploads/2017/12/sprint-scrum-1024x497.png
+<img src="https://beagilemyfriend.com/wp-content/uploads/2017/12/sprint-scrum-1024x497.png"
 
 
 ## CARACTERÍSTICAS DE LOS SPRINTS
@@ -167,4 +167,4 @@ Sprint es el nombre que va a recibir cada uno de los ciclo o iteracciones que va
 - Si hay varios Scrum Teams trabajando juntos en un producto, deben definir y cumplir mutuamente la misma Definición de Terminado.
 
 
-! [descargar] https://thedigitalprojectmanager.com/es/ceremonias-scrum-simplificadas/
+<img src="https://thedigitalprojectmanager.com/es/ceremonias-scrum-simplificadas/"
