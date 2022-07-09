@@ -1,7 +1,0 @@
-Scrum: Concepto
-
-    Scrum es un marco de trabajo a través del cual las personas 
-    pueden abordar problemas complejos adaptativos, al a vez 
-    que se entregan productos de forma eficiente y creativa con el máximo valor.
-
-
